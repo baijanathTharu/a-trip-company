@@ -14,7 +14,7 @@
 
     <!-- carousel -->
     <div class="carousel">
-        <img src="/images/mountain.jpg" alt="" class="d-block w-100">
+        <img src="./images/mountain.jpg" alt="" class="d-block w-100">
     </div>
 
     <!-- navigations -->
@@ -55,7 +55,6 @@
                 <button class="btn btn-danger">Book</button>
             </div>
             <div class="col-12 col-sm-8">
-                {{-- <img src="/images/lumbini.jpg" alt="image" width="600px" height="300px"> --}}
                 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -64,7 +63,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="/images/lumbini.jpg" class="d-block w-100 h-100" alt="...">
+                            <img src="./images/lumbini.jpg" class="d-block w-100 h-100" alt="...">
                             <div class="carousel-caption d-none d-md-block text-white">
                                 <span class="px-2">
                                     <button class="btn btn-danger">Book A Trip</button>
@@ -73,7 +72,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/mountain.jpg" class="d-block w-100" alt="...">
+                            <img src="./images/mountain.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block text-white">
                                 <span class="px-2">
                                     <button class="btn btn-danger">Book A Trek</button>
@@ -82,7 +81,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/temples.jpg" class="d-block w-100" alt="...">
+                            <img src="./images/temples.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block text-white">
                                 <span class="px-2">
                                     <button class="btn btn-danger">Book A Visit</button>
@@ -110,7 +109,7 @@
         <hr class="my-2 border border-bottom-white">
         <div class="row my-4">
             <div class="card col-12 col-md-4">
-                <img src="/images/mountain.jpg" class="card-img-top" alt="...">
+                <img src="./images/mountain.jpg" class="card-img-top" alt="...">
                 <h3 class="display-6 text-danger font-weight-bolder text-center my-2">Trekking</h3>
                 <div class="card-body">
                     <p class="card-text font-weight-bold">Some quick example text to build on the card title and make up
@@ -118,7 +117,7 @@
                 </div>
             </div>
             <div class="card col-12 col-md-4">
-                <img src="/images/1.jpg" class="card-img-top" alt="...">
+                <img src="./images/1.jpg" class="card-img-top" alt="...">
                 <h3 class="display-6 text-danger font-weight-bolder text-center my-2">Informational Trip</h3>
                 <div class="card-body">
                     <p class="card-text font-weight-bold">Some quick example text to build on the card title and make up
@@ -126,7 +125,7 @@
                 </div>
             </div>
             <div class="card col-12 col-md-4">
-                <img src="/images/3.jpg" class="card-img-top" alt="...">
+                <img src="./images/3.jpg" class="card-img-top" alt="...">
                 <h3 class="display-6 text-danger font-weight-bolder text-center my-2">Family Tour</h3>
                 <div class="card-body">
                     <p class="card-text font-weight-bold">Some quick example text to build on the card title and make up
@@ -136,7 +135,7 @@
         </div>
         <div class="row my-4">
             <div class="card col-12 col-md-4">
-                <img src="/images/temples.jpg" class="card-img-top" alt="...">
+                <img src="./images/temples.jpg" class="card-img-top" alt="...">
                 <h3 class="display-6 text-danger font-weight-bolder text-center my-2">Religious Tour</h3>
                 <div class="card-body">
                     <p class="card-text font-weight-bold">Some quick example text to build on the card title and make up
@@ -144,7 +143,7 @@
                 </div>
             </div>
             <div class="card col-12 col-md-4">
-                <img src="/images/4.jpg" class="card-img-top" alt="...">
+                <img src="./images/4.jpg" class="card-img-top" alt="...">
                 <h3 class="display-6 text-danger font-weight-bolder text-center my-2">Cultural Program</h3>
                 <div class="card-body">
                     <p class="card-text font-weight-bold">Some quick example text to build on the card title and make up
@@ -152,7 +151,7 @@
                 </div>
             </div>
             <div class="card col-12 col-md-4">
-                <img src="/images/4.jpg" class="card-img-top" alt="...">
+                <img src="./images/4.jpg" class="card-img-top" alt="...">
                 <h3 class="display-6 text-danger font-weight-bolder text-center my-2">International Tourism</h3>
                 <div class="card-body">
                     <p class="card-text font-weight-bold">Some quick example text to build on the card title and make up
@@ -233,14 +232,14 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="/images/1.jpg" class="d-block w-100" alt="...">
+                            <img src="./images/1.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block font-weight-bolder bg-white text-danger p-2">
                                 <h5>Mr John Dow</h5>
                                 <p>"Nulla vitae elit libero, a pharetra augue mollis interdum."</p>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/2.jpg" class="d-block w-100" alt="...">
+                            <img src="./images/2.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block font-weight-bolder bg-white text-danger p-2">
                                 <h5>Mr Harry</h5>
                                 <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat dolor fuga
@@ -249,7 +248,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/3.jpg" class="d-block w-100" alt="...">
+                            <img src="./images/3.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block font-weight-bolder bg-white text-danger p-2">
                                 <h5>Ms. Catylyn</h5>
                                 <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit, voluptatum? A et
@@ -258,7 +257,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/4.jpg" class="d-block w-100" alt="...">
+                            <img src="./images/4.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block font-weight-bolder bg-white text-danger p-2">
                                 <h5>"Mr. Brown"</h5>
                                 <p>"Praesent commodo cursus magna, vel scelerisque nisl consectetur. Lorem ipsum dolor
@@ -266,7 +265,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/mountain.jpg" class="d-block w-100" alt="...">
+                            <img src="./images/mountain.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block font-weight-bolder bg-white text-danger p-2">
                                 <h5>"Tony"</h5>
                                 <p>"Praesent commodo cursus magna, vel scelerisque nisl consectetur. Lorem ipsum dolor
