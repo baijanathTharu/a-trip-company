@@ -14,7 +14,7 @@
 
     <!-- carousel -->
     <div class="carousel">
-        <img src="./images/mountain.jpg" alt="" class="d-block w-100">
+        <img src="./images/2.jpg" alt="" class="d-block w-100">
     </div>
 
     <!-- navigations -->
